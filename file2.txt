@@ -1,0 +1,3 @@
+This second file that we are going to commit in the next commit
+Name: file2.txt
+Author: Kekin Chheda
